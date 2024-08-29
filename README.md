@@ -24,7 +24,7 @@
    </tr>
    <tr>
     <td>⚔️ Guild</td>
-    <td>Not Affilieted Yet</td>
+    <td>Not yet affiliated</td>
    </tr>
    <tr>
     <td>✨ Interest</td>
