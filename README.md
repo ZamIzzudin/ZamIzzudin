@@ -104,4 +104,4 @@
 
 <br/>
 
-<p align="center"><img src="https://res.cloudinary.com/dimezdsix/image/upload/v1724926220/il5ugtjqhxelrn89pqyn.gif" alt="footer image"/></p>
+<p align="center"><img src="https://res.cloudinary.com/dimezdsix/image/upload/v1724931099/gtj0shwlhquce6hhb5sy.gif" alt="footer image"/></p>
