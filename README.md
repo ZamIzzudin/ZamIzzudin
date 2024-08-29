@@ -94,7 +94,7 @@
 <br/><br/><br/>
 
 <div align="center">
- <h5>Connect With Me</h5>
+ <h3>Connect With Me</h3>
  <a href="https://www.linkedin.com/in/azzam-izzudin-hasan"><img height="50" src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000"></a>
  <a href="mailto:azzamizzudinhasan@gmail.com"><img width="50" src="https://img.icons8.com/?size=100&id=35084&format=png&color=000000"></a>
  <a href="https://discord.com/users/533661901977026580"><img height="50" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000"></a>
