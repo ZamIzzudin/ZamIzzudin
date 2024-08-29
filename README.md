@@ -4,7 +4,7 @@
 <hr/>
 
 <div align="center">
-  <h3>🔰 Basic Stats 🔰</h3>
+  <h3>🔰 BASIC STATS 🔰</h3>
   <table>
    <tr>
     <td>🏆 Level (22)</td>
@@ -40,7 +40,7 @@
  
   <hr/>
   
-  <h3>💥 Ability 💥</h3>
+  <h3>💥 ABILITY 💥</h3>
   
   <h4>Languages</h4>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
