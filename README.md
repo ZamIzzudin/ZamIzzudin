@@ -95,11 +95,11 @@
 
 <div align="center">
  <h3>Connect With Me</h3>
- <a href="https://www.linkedin.com/in/azzam-izzudin-hasan"><img height="50" src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000"></a>
- <a href="mailto:azzamizzudinhasan@gmail.com"><img width="50" src="https://img.icons8.com/?size=100&id=35084&format=png&color=000000"></a>
- <a href="https://discord.com/users/533661901977026580"><img height="50" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000"></a>
- <a href="https://zamizzudin.fun"><img width="50" src="https://img.icons8.com/?size=100&id=xi9J4k2OgrkM&format=png&color=000000"></a>
- <a href="https://open.spotify.com/user/312as7rzwm7nwou7nfeubv7dadxe?si=961e2aca0cc44176"><img height="50" src="https://img.icons8.com/?size=100&id=MeCPxrBjElfM&format=png&color=000000"></a>
+ <a terget="_blank" href="https://www.linkedin.com/in/azzam-izzudin-hasan"><img height="50" src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000"></a>
+ <a terget="_blank" href="mailto:azzamizzudinhasan@gmail.com"><img width="50" src="https://img.icons8.com/?size=100&id=35084&format=png&color=000000"></a>
+ <a terget="_blank" href="https://discord.com/users/533661901977026580"><img height="50" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000"></a>
+ <a terget="_blank" href="https://zamizzudin.fun"><img width="50" src="https://img.icons8.com/?size=100&id=xi9J4k2OgrkM&format=png&color=000000"></a>
+ <a terget="_blank" href="https://steamcommunity.com/id/swulastry/"><img height="50" src="https://img.icons8.com/?size=100&id=zNqjI8XKkCv0&format=png&color=000000"></a>
 </div>
 
 <br/>
