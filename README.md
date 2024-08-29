@@ -29,8 +29,8 @@
    <tr>
     <td>✨ Interest</td>
     <td>
-     <img src="https://img.shields.io/badge/CODING-10459C?style=for-the-badge" alt="interest1" />
-     <img src="https://img.shields.io/badge/GAMING-20B2AA?style=for-the-badge" alt="interest2" />
+     <img src="https://img.shields.io/badge/CODE-10459C?style=for-the-badge" alt="interest1" />
+     <img src="https://img.shields.io/badge/GAME-20B2AA?style=for-the-badge" alt="interest2" />
      <img src="https://img.shields.io/badge/PIXEL%20ART-2B02A6?style=for-the-badge" alt="interest4" />
      <img src="https://img.shields.io/badge/MONEY-EBAC00?style=for-the-badge" alt="interest3" />
      <img src="https://img.shields.io/badge/CHINDO-FA5CFF?style=for-the-badge" alt="interest4" />
