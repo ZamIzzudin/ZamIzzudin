@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/Golang-white?style=for-the-badge&logo=go&logoColor=007ACC" alt="golang" />
   <img src="https://img.shields.io/badge/Python-ffdd54?style=for-the-badge&logo=python" alt="python" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity" />
   
   <h4>Frameworks</h4>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
