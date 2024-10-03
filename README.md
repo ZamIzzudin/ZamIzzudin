@@ -30,10 +30,10 @@
     <td>✨ Interest</td>
     <td>
      <img src="https://img.shields.io/badge/CODE-10459C?style=for-the-badge" alt="interest1" />
+     <img src="https://img.shields.io/badge/MONEY-%234ea94b.svg?style=for-the-badge" alt="interest3" />
      <img src="https://img.shields.io/badge/GAME-%2335495e.svg?style=for-the-badge" alt="interest2" />
      <img src="https://img.shields.io/badge/PIXEL%20ART-2B02A6?style=for-the-badge" alt="interest4" />
-     <img src="https://img.shields.io/badge/MONEY-%234ea94b.svg?style=for-the-badge" alt="interest3" />
-     <img src="https://img.shields.io/badge/CHINDO-C21325?style=for-the-badge" alt="interest4" />
+     <img src="https://img.shields.io/badge/POKEMON-C21325?style=for-the-badge" alt="interest4" />
     </td>
    </tr>
   </table>
