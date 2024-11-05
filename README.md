@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Golang-white?style=for-the-badge&logo=go&logoColor=007ACC" alt="golang" />
   <img src="https://img.shields.io/badge/Python-ffdd54?style=for-the-badge&logo=python" alt="python" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
+  <img src="https://img.shields.io/badge/Solidity-6F72C8?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity" />
   
   <h4>Frameworks</h4>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
@@ -58,9 +59,10 @@
   <img src="https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=black" alt="hapi" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react_native" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="expo" />
-  <img src="https://img.shields.io/badge/Near-%23000000.svg?style=for-the-badge&logo=near&logoColor=white" alt="near" />
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="expo" />
+  <img src="https://img.shields.io/badge/Hardhat-C21325?style=for-the-badge&logo=alfred&logoColor=white" alt="hardhat" />
+  
 
   <h4>Databases</h4>
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="firebase" />
@@ -74,8 +76,9 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="socket.io" />
-  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3.js" />
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3.js" />
+  <img src="https://img.shields.io/badge/Wagmi-%230769AD.svg?style=for-the-badge&logo=wagmi&logoColor=white" alt="wagmi" />
    
   <h4>Tools</h4>
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
@@ -86,6 +89,9 @@
   <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
   <img src="https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google-cloud" />
+  <img src="https://img.shields.io/badge/Ganache-F56640?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="google-cloud" />
+  <img src="https://img.shields.io/badge/Openzeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="google-cloud" />
+  <img src="https://img.shields.io/badge/Near-%23000000.svg?style=for-the-badge&logo=near&logoColor=white" alt="near" />
 </div>
 
 <br/><br/><br/>
