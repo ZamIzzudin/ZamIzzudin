@@ -78,6 +78,7 @@
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="socket.io" />
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
   <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3.js" />
+  <img src="https://img.shields.io/badge/Thirdweb-F213A4?style=for-the-badge&logo=thirdweb&logoColor=white" alt="thirdweb" />
   <img src="https://img.shields.io/badge/Wagmi-%230769AD.svg?style=for-the-badge&logo=wagmi&logoColor=white" alt="wagmi" />
    
   <h4>Tools</h4>
