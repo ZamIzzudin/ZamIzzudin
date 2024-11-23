@@ -93,6 +93,7 @@
   <img src="https://img.shields.io/badge/Ganache-F56640?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="google-cloud" />
   <img src="https://img.shields.io/badge/Openzeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="google-cloud" />
   <img src="https://img.shields.io/badge/Near-%23000000.svg?style=for-the-badge&logo=near&logoColor=white" alt="near" />
+  <img src="https://img.shields.io/badge/Redis-C21325?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
 </div>
 
 <br/><br/><br/>
