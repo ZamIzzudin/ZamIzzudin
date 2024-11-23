@@ -24,7 +24,7 @@
    </tr>
    <tr>
     <td>⚔️ Guild</td>
-    <td>Not yet affiliated</td>
+    <td>PT. Nutech Integrasi</td>
    </tr>
    <tr>
     <td>✨ Interest</td>
